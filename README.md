@@ -1,6 +1,6 @@
 # Urban Heat Resilience Hackathon @ ICUC12
 
-As part of the International Conference on Urban Climate ([ICUC12]([url](https://icuc12.eu/))), the World Bank-GFDRR team under the Global Program on Urban Heat Resilience and the City Resilience Program, @matthiasdemuzere, hosted a hands-on hackathon focused on urban heat resilience. We designed a set of challenges across three spatial scales: city, neighborhood, and building, and provided curated datasets for Timbuktu (Mali) and Davao (Philippines).
+As part of the International Conference on Urban Climate ([ICUC12]([url](https://icuc12.eu/))), the World Bank-GFDRR team under the Global Program on Urban Heat Resilience and the City Resilience Program, [@matthiasdemuzere](https://github.com/matthiasdemuzere), hosted a hands-on hackathon focused on urban heat resilience. We designed a set of challenges across three spatial scales: city, neighborhood, and building, and provided curated datasets for Timbuktu (Mali) and Davao (Philippines).
 
 Participants were invited to explore these datasets using starter code based on our own workflows. The goal: develop scalable and actionable tools to support climate adaptation and urban planning.
 
