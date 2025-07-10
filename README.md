@@ -7,7 +7,7 @@ Participants were invited to explore these datasets using starter code based on 
 Whether it's identifying locally effective cooling interventions or helping a mayor make the case for heat shelters, this repository holds everything used in the hackathon:
 
 * Ready-to-run Python notebooks
-* Open-source urban datasets (available via Zenodo)
+* Open-source urban datasets 
 * Real-world challenge descriptions
 * Tools for modeling, analysis & visualization
 
