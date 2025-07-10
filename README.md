@@ -14,9 +14,7 @@ Whether it's identifying locally effective cooling interventions or helping a ma
 
 ### 💡 How to Use This Repository ?
 
-* Start with the documentation
-
-Head to the docs/ folder. Begin with:
+* Start with the documentation, under the `docs/` folder. Begin with:
   * The motivation behind the project
   * A general overview of the hackathon setup
   * Details about the input datasets used
