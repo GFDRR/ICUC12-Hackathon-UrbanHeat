@@ -6,13 +6,27 @@ Participants were invited to explore these datasets using starter code based on 
 
 Whether it's identifying locally effective cooling interventions or helping a mayor make the case for heat shelters, this repository holds everything used in the hackathon:
 
-🔧 Ready-to-run Python notebooks
+* Ready-to-run Python notebooks
+* Open-source urban datasets (available via Zenodo)
+* Real-world challenge descriptions
+* Tools for modeling, analysis & visualization
 
-📊 Open-source urban datasets (available via Zenodo)
 
-🌍 Real-world challenge descriptions
+### 💡 How to Use This Repository ?
 
-📦 Tools for modeling, analysis & visualization
+* Start with the documentation
+Head to the docs/ folder. Begin with:
+  * The motivation behind the project
+  * A general overview of the hackathon setup
+  * Details about the input datasets used
+
+* Explore the notebooks
+
+Notebooks are organized by spatial scale and model type (city, neighborhood, building). Each notebook loads helper functions from the `functions/` folder.
+
+* Running the notebooks
+
+All notebooks are designed to run smoothly in Google Colab. They should also work in other environments, just make sure to adjust the `BASE_DIR` path in the section labeled “Section to adjust” to reflect your own file structure.
 
 We hope this repo inspires further innovation in tackling urban heat stress—feel free to fork, adapt, and contribute!
 
