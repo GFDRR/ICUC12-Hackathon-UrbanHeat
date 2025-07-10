@@ -27,5 +27,5 @@ Notebooks are organized by spatial scale and model type (city, neighborhood, bui
 
 All notebooks are designed to run smoothly in Google Colab. They should also work in other environments, just make sure to adjust the `BASE_DIR` path in the section labeled “Section to adjust” to reflect your own file structure.
 
-We hope this repo inspires further innovation in tackling urban heat stress—feel free to fork, adapt, and contribute!
+We hope this repo inspires further innovation in tackling urban heat stress. Feel free to fork, adapt, and contribute!
 
