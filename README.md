@@ -1,9 +1,8 @@
 # Urban Heat Resilience Hackathon @ ICUC12
 
-As part of the International Conference on Urban Climate ([ICUC12](https://icuc12.eu/)), the World Bank-GFDRR team under the Global Program on Urban Heat Resilience and the City Resilience Program, [@matthiasdemuzere](https://github.com/matthiasdemuzere), hosted a hands-on hackathon focused on urban heat resilience. We designed a set of challenges across three spatial scales: city, neighborhood, and building, and provided curated datasets for Timbuktu (Mali) and Davao (Philippines).
+As part of the International Conference on Urban Climate ([ICUC12](https://icuc12.eu/)), the World Bank-GFDRR team under the Global Program on Urban Heat Resilience and the City Resilience Program hosted a hands-on hackathon focused on urban heat resilience. We designed a set of challenges across three spatial scales: city, neighborhood, and building, and provided curated datasets for Timbuktu (Mali) and Davao (Philippines).
 
 Participants were invited to explore these datasets using starter code based on our own workflows. The goal: develop scalable and actionable tools to support climate adaptation and urban planning.
-
 Whether it's identifying locally effective cooling interventions or helping a mayor make the case for heat shelters, this repository holds everything used in the hackathon:
 
 * Ready-to-run Python notebooks
@@ -21,7 +20,7 @@ Whether it's identifying locally effective cooling interventions or helping a ma
 
 * Explore the notebooks
 
-Notebooks are organized by spatial scale and model type (city, neighborhood, building). Each notebook loads helper functions from the `functions/` folder.
+Notebooks are organized by spatial scale and model type (TARGET - city, SOLWEIG - neighborhood, ENERGYPLUS - building/class room). Each notebook loads helper functions from the `functions/` folder.
 
 * Running the notebooks
 
