@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "World Bank City Resilience Program’s Urban Heat Hackathon: multi-scale approaches for heat resilience"
+authors:
+  - family-names: Demuzere
+    given-names: Matthias
+    affiliation: B-Kode / World Bank
+    orcid: "https://orcid.org/0000-0003-3237-4077"
+  - family-names: Blancke
+    given-names: Jonas
+    affiliation: B-Kode / World Bank
+  - family-names: Zepeda Rivas
+    given-names: Daniel
+    affiliation: World Bank / cli-mat
+    orcid: "https://orcid.org/0000-0001-9441-1203"
+  - family-names: Wallenberg
+    given-names: Nils
+    affiliation: University of Gothenburg / World Bank
+    orcid: "https://orcid.org/0000-0003-1359-658X"
+  - family-names: Jones
+    given-names: Nicholas
+    affiliation: World Bank
+    orcid: "https://orcid.org/0000-0002-7411-0881"
+date-released: 2025-07-11
+version: "1.0.0"
+keywords:
+  - urban heat
+  - resilience
+  - open data
+  - hackathon
+
+preferred-citation:
+  type: conference-paper
+  title: "World Bank City Resilience Program’s Urban Heat Hackathon: multi-scale approaches for heat resilience"
+  authors:
+    - family-names: Demuzere
+      given-names: Matthias
+      affiliation: B-Kode / World Bank
+      orcid: "https://orcid.org/0000-0003-3237-4077"
+    - family-names: Blancke
+      given-names: Jonas
+      affiliation: B-Kode / World Bank
+    - family-names: Zepeda Rivas
+      given-names: Daniel
+      affiliation: World Bank / cli-mat
+      orcid: "https://orcid.org/0000-0001-9441-1203"
+    - family-names: Wallenberg
+      given-names: Nils
+      affiliation: University of Gothenburg / World Bank
+      orcid: "https://orcid.org/0000-0003-1359-658X"
+    - family-names: Jones
+      given-names: Nicholas
+      affiliation: World Bank
+      orcid: "https://orcid.org/0000-0002-7411-0881"
+  year: 2025
+  conference:
+    name: "ICUC12 – International Conference on Urban Climate"
+    location: "Rotterdam, The Netherlands"
+    date-start: 2025-07-07
+    date-end: 2025-07-11
